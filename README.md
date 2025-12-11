@@ -33,3 +33,4 @@ Predict life cycle endpoints for stars and visualize evolution stages. This proj
 # Stellar-Evolution
 # Stellar-Evolution
 # Stellar-Evolution
+# Stellar-Evolution
