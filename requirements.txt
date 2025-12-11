@@ -1,0 +1,11 @@
+pandas
+numpy
+scipy
+astropy
+astroquery
+scikit-learn
+matplotlib
+seaborn
+tensorflow>=2.10
+joblib
+tqdm
