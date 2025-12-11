@@ -30,7 +30,3 @@ Predict life cycle endpoints for stars and visualize evolution stages. This proj
 ## Data
 - For real science, download Gaia DR3 and SDSS data and place CSVs in `data/raw/`.
 
-# Stellar-Evolution
-# Stellar-Evolution
-# Stellar-Evolution
-# Stellar-Evolution
